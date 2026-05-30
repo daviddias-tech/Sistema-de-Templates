@@ -1,0 +1,20 @@
+<svg width="300" height="78" viewBox="0 0 300 78" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Logo Escola do Reino</title>
+  <desc id="desc">Marca com escudo, livro aberto e coroa minimalista para a Escola do Reino.</desc>
+
+  <g>
+    <path d="M17 15.5C17 12.4624 19.4624 10 22.5 10H59.5C62.5376 10 65 12.4624 65 15.5V35.5521C65 48.127 57.584 59.5029 46.0909 64.6096L41 66.8722L35.9091 64.6096C24.416 59.5029 17 48.127 17 35.5521V15.5Z" fill="#0F2A3D"/>
+    <path d="M22 17.5C22 15.567 23.567 14 25.5 14H56.5C58.433 14 60 15.567 60 17.5V35.0741C60 45.6608 53.8299 55.2756 44.2062 59.6949L41 61.1673L37.7938 59.6949C28.1701 55.2756 22 45.6608 22 35.0741V17.5Z" stroke="#8BD3C8" stroke-width="1.7"/>
+    <path d="M30.5 30C34.4968 30 37.8661 31.2751 40.5 33.8254V49C37.8661 46.4497 34.4968 45.1746 30.5 45.1746V30Z" fill="#F7FBFC"/>
+    <path d="M51.5 30C47.5032 30 44.1339 31.2751 41.5 33.8254V49C44.1339 46.4497 47.5032 45.1746 51.5 45.1746V30Z" fill="#F7FBFC"/>
+    <path d="M30.5 30C34.4968 30 37.8661 31.2751 40.5 33.8254M41.5 33.8254C44.1339 31.2751 47.5032 30 51.5 30M41 34V49" stroke="#0F2A3D" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M31.5 24.5L35.5 20.5L41 24.5L46.5 20.5L50.5 24.5" stroke="#C9973F" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M31.5 24.5H50.5" stroke="#C9973F" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <path d="M84 20H158" stroke="#1F7A6D" stroke-width="2" stroke-linecap="round"/>
+    <text x="84" y="46" fill="#10212F" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="900">Escola do Reino</text>
+    <text x="84" y="64" fill="#607080" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="800" letter-spacing="1.5">CURSOS BIBLICOS ONLINE</text>
+  </g>
+</svg>
